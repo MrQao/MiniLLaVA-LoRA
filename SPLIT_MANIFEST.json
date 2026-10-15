@@ -1,0 +1,21 @@
+{
+  "source": "MiniCLIPTest",
+  "date": "2026-10-15",
+  "files_sha256": {
+    "testLLM.py": "6cdad05a333ef3dbec4aa411660ce275ed2f023291734d05612631f860f60127",
+    "miniLLaVa.py": "919043bb49902c3869ed13d9e411036b6c66866acf883b3c5ad83603ad3e8281",
+    "lora_weights.pt": "8da306a918c2c6a32cc13011d083b2a81d6ff1531619aeca4a8672b0978a5214",
+    "requirements.txt": "65949e3d3b81798cfadec824eddb02ebbb63249b0c5c348fe6e2c2836af95a8f",
+    "README.md": "99aea485741ab33e833231d6d352820fb08a53153fc878256821e1c523737948",
+    ".gitignore": "ea8d74bf374aeee00e6820164f08e7023ed9fda00a4d4c33ca803a0209e9a453",
+    "data/LoRA02.pth": "b891610a366d91d7c984730aa4932dde6eebf05829b3b43b8ac6a68e109aa65c",
+    "data/cifar-10-batches-py/data_batch_1": "54636561a3ce25bd3e19253c6b0d8538147b0ae398331ac4a2d86c6d987368cd",
+    "data/cifar-10-batches-py/readme.html": "4d1c3fb199d6a183ae03f5162b469d7bc04edf2fad9547bd5f224271d52f98e5",
+    "data/cifar-10-batches-py/batches.meta": "f962466ef690d46b226450fb9aadc74ba4bc64a76aa526b5827fe4bc5c7125cb",
+    "data/cifar-10-batches-py/data_batch_2": "766b2cef9fbc745cf056b3152224f7cf77163b330ea9a15f9392beb8b89bc5a8",
+    "data/cifar-10-batches-py/data_batch_5": "d91802434d8376bbaeeadf58a737e3a1b12ac839077e931237e0dcd43adcb154",
+    "data/cifar-10-batches-py/test_batch": "f53d8d457504f7cff4ea9e021afcf0e0ad8e24a91f3fc42091b8adef61157831",
+    "data/cifar-10-batches-py/data_batch_4": "3f7bb240661948b8f4d53e36ec720d8306f5668bd0071dcb4e6c947f78e9682b",
+    "data/cifar-10-batches-py/data_batch_3": "0f00d98ebfb30b3ec0ad19f9756dc2630b89003e10525f5e148445e82aa6a1f9"
+  }
+}
